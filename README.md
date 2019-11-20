@@ -12,6 +12,8 @@ Information in this repository is stored as detailed folder structure:
 * **output:** data files obtained after notebook execution and used as source for visualitzation utilities
 * **source:** notebook in Python3 to get data from data folder, clean it and to obtain output data files 
 
+*index.html* file is where visualization web is stored
+
 Data sources:
 * [PA-X Database](https://www.peaceagreements.org/)
 * [UNDP HID rank Database](http://hdr.undp.org/sites/default/files/2018_all_indicators.xlsx)
