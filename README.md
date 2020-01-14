@@ -16,7 +16,7 @@ Information in this repository is stored as detailed folder structure:
 Data sources:
 * [PA-X Database](https://www.peaceagreements.org/)
 * [The World Bank Databank](https://databank.worldbank.org/home.aspx)
-* [UNDP HID rank Database](http://hdr.undp.org/sites/default/files/2018_all_indicators.xlsx)
+* [UNDP HDI rank Database](http://hdr.undp.org/sites/default/files/2018_all_indicators.xlsx)
 
 Visualitzation was created with [Tableau Desktop](https://www.tableau.com/products/desktop) (student license)
 
